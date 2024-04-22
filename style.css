@@ -1,0 +1,101 @@
+#logo{
+    font-size: 20px;
+    margin-left: 100px;
+    width: 110px;
+    
+}
+#lupa{
+    height: 20px;
+    margin-left: 600px;
+    
+}
+#user{
+    height: 20px;
+    margin-left: 20px;
+    
+}
+#heart{
+    height: 20px;
+    margin-left: 20px;
+   
+}
+#bag{
+    height: 20px;
+    margin-left: 20px;
+   
+}
+.pages{
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.linea{
+    display: flex;
+   border-style: solid;
+   border-width: 1px;
+   border-left: 0;
+   border-right: 0;
+}
+.menu{
+    height: 40px;
+    min-width: 700px;
+    margin-left: 80px;
+    margin-top: 30px;
+    text-align: center;
+}
+th{
+   min-width: 50px;
+   
+}
+.imagenes{
+    margin-top: 10px;
+}
+#imagen{
+    margin-left: 100px;
+    height: 900px;
+    width: 850px;
+    background-color: aqua;
+    background-image: url("https://www.prada.com/content/dam/pradanux/home_page/2024/03/Co_Homepage/banner_ss24/Card_1_DT.jpg/_jcr_content/renditions/cq5dam.web.1664.1664.webp");
+    background-position: center;
+    background-size: 850px;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+
+}
+#imagen1{
+    margin-right: 5px;
+    margin-left: 30px;
+    width: 750px;
+    height: 900px;
+    background-image: url("https://www.prada.com/content/dam/pradanux/home_page/2024/03/Co_Homepage/banner_ss24/Card_2_DT.jpg/_jcr_content/renditions/cq5dam.web.1664.1664.webp");
+    background-position: center;
+    background-size: 750px;
+    background-repeat: no-repeat;
+}
+.imagenespagina{
+    display: flex;
+}
+#texto{
+    width: 400px;
+    height: 400px;
+    margin-left: 30px;
+}
+#texto1{
+    width: 400px;
+    height: 400px;
+    text-align: right;
+    background-color: black;
+}
+#texto2{
+    color: black;
+}
+#texto3{
+    text-align: right;
+    background-color: black;
+    margin-top: 5px;
+}
+#texto4{
+    color: black;
+    margin-top: 5PX;
+}
+
